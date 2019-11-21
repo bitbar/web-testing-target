@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 2em;
+  text-align: center;
+}
+
+#submit_button {
+  border-radius: 1em;
+  background-color: rgb(178, 201, 255);
+  border: none;
+  padding: 1em;
+  margin: 1em auto;
+  cursor: pointer;
+}
+
+#result_element {
+  border-radius: 1em;
+  background: #f1f1f1;;
+  border: 1px solid #eee;
+  padding: 1em;
+  margin: 1em auto;
+  max-width: 40rem;
+}
